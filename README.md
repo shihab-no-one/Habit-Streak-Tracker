@@ -32,5 +32,5 @@ A minimal, intuitive Android application designed to help users build habits and
 
 1. **Clone the repository**:
   
-   git clone [https://github.com/shihab-no-one/daily-streak-tracker.git](https://github.com/shihab-no-one/daily-streak-tracker.git)
+   git clone https://github.com/shihab-no-one/Habit-Streak-Tracker.git
    cd daily-streak-tracker
