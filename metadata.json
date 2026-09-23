@@ -1,0 +1,7 @@
+{
+  "name": "Habit Streak",
+  "description": "A clean, fast, daily checklist and habit streak tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
