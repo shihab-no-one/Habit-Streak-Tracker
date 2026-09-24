@@ -9,7 +9,7 @@ import android.content.Intent
 import android.os.Build
 import androidx.core.app.NotificationCompat
 import com.example.MainActivity
-import com.example.R
+import com.rollup.habitstreak.R
 import java.util.Calendar
 
 object NotificationHelper {
