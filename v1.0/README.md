@@ -28,9 +28,10 @@ A minimal, intuitive Android application designed to help users build habits and
 * **JDK**: Version 17 or higher
 * **Android SDK**: API Level 24+ (Android 7.0)
 
-### Installation
+## Screenshots
 
-1. **Clone the repository**:
-  
-   git clone https://github.com/shihab-no-one/Habit-Streak-Tracker.git
-   cd daily-streak-tracker
+<img width="162" height="360" alt="screenshot_1" src="https://raw.githubusercontent.com/shihab-no-one/Habit-Streak-Tracker/refs/heads/main/v1.0/Screenshot/screenshot_1.png" />
+
+<img width="162" height="360" alt="screenshot_2" src="https://raw.githubusercontent.com/shihab-no-one/Habit-Streak-Tracker/refs/heads/main/v1.0/Screenshot/screenshot_2.png" />
+
+<img width="162" height="360" alt="screenshot_3" src="https://raw.githubusercontent.com/shihab-no-one/Habit-Streak-Tracker/refs/heads/main/v1.0/Screenshot/screenshot_3.png" />
