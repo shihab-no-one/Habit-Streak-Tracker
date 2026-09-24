@@ -1,8 +1,3 @@
----
-
-### 2. Version 1.2 `README.md`
-Place this file inside the **v1.2 subfolder** (`./v1.2/README.md`).
-
 ```markdown
 # Habit Streak Tracker — Version 1.2
 
