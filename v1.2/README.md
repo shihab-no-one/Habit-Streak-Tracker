@@ -1,4 +1,3 @@
-```markdown
 # Habit Streak Tracker — Version 1.2
 
 Welcome to **Habit Streak Tracker v1.2**. This release updates the core application with flexible tracking options, retroactive history edits, custom notifications, and an updated Nordic Sky UI palette.
@@ -49,8 +48,13 @@ Welcome to **Habit Streak Tracker v1.2**. This release updates the core applicat
 
 ---
 
-## ⚡ Installation & Setup
+## Screenshots
 
-1. **Navigate to the v1.2 directory:**
-   ```bash
-   cd v1.2
+<img width="108" height="240" alt="screenshot_1" src="https://raw.githubusercontent.com/shihab-no-one/Habit-Streak-Tracker/refs/heads/main/v1.2/Screenshot/v1.2_screenshot_1.png" />
+<img width="108" height="240" alt="screenshot_1" src="https://raw.githubusercontent.com/shihab-no-one/Habit-Streak-Tracker/refs/heads/main/v1.2/Screenshot/v1.2_screenshot_2.png" />
+<img width="108" height="240" alt="screenshot_1" src="https://raw.githubusercontent.com/shihab-no-one/Habit-Streak-Tracker/refs/heads/main/v1.2/Screenshot/v1.2_screenshot_3.png" />
+<img width="108" height="240" alt="screenshot_1" src="https://raw.githubusercontent.com/shihab-no-one/Habit-Streak-Tracker/refs/heads/main/v1.2/Screenshot/v1.2_screenshot_4.png" />
+<img width="108" height="240" alt="screenshot_1" src="https://raw.githubusercontent.com/shihab-no-one/Habit-Streak-Tracker/refs/heads/main/v1.2/Screenshot/v1.2_screenshot_5.png" />
+<img width="108" height="240" alt="screenshot_1" src="https://raw.githubusercontent.com/shihab-no-one/Habit-Streak-Tracker/refs/heads/main/v1.2/Screenshot/v1.2_screenshot_6.png" />
+<img width="108" height="240" alt="screenshot_1" src="https://raw.githubusercontent.com/shihab-no-one/Habit-Streak-Tracker/refs/heads/main/v1.2/Screenshot/v1.2_screenshot_7.png" />
+<img width="108" height="240" alt="screenshot_1" src="https://raw.githubusercontent.com/shihab-no-one/Habit-Streak-Tracker/refs/heads/main/v1.2/Screenshot/v1.2_screenshot_8.png" />
